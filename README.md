@@ -8,28 +8,18 @@
   I build at the intersection of <b>technology, creativity, design & storytelling.</b>
 </p>
 
- <a href="https://vishalkatarha-portfolio-02.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-555555?style=for-the-badge" />
+<p>
+  <a href="https://vishalkatarha-portfolio-02.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vishalkatarha">
-    <img src="https://img.shields.io/badge/🐙%20GITHUB-Profile-333333?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/vishal-katarha-4b8422298">
-    <img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kartikkatarha@gmail.com">
-    <img src="https://img.shields.io/badge/✉️%20EMAIL-Contact-2ea44f?style=for-the-badge" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/vishal__katarha/">
-    <img src="https://img.shields.io/badge/📸%20INSTAGRAM-Follow-E4405F?style=for-the-badge" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/c/burnitupp">
-    <img src="https://img.shields.io/badge/▶️%20YOUTUBE-BurnItUpp-FF0000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/YouTube-BurnItUpp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
