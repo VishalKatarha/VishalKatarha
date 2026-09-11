@@ -294,15 +294,69 @@ An experiment, tool, application or interesting technical build.
 
 ---
 
-# 🎯 What I'm Exploring
+## 🎯 What I'm Exploring
 
-```text
-Creative Coding       ████████████████████
-Full-Stack Development ███████████████████░
-Game Development      ████████████████░░░░
-Motion & Visuals      ██████████████████░░
-3D / Blender          ███████████████░░░░░
-UI / UX               █████████████████░░░
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Creative Coding
+`██████████████████░░` **85%**
+
+Code + Art + Interaction
+
+</td>
+
+<td width="50%">
+
+### 🎬 Motion & Visuals
+`███████████████░░░░░` **75%**
+
+Video · Motion Graphics · Visual Storytelling
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Development
+`████████████████░░░░` **80%**
+
+Web · APIs · Databases · Applications
+
+</td>
+
+<td width="50%">
+
+### 🧊 3D / Blender
+`█████████████░░░░░░░` **65%**
+
+Modeling · Animation · Rendering
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 Game Development
+`██████████████░░░░░░` **70%**
+
+Unity · Unreal · C# · C++
+
+</td>
+
+<td width="50%">
+
+### 🎨 UI / UX
+`██████████████░░░░░░` **70%**
+
+Design · Prototyping · Experiences
+
+</td>
+</tr>
+</table>
 ```
 
 ---
