@@ -298,65 +298,76 @@ An experiment, tool, application or interesting technical build.
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 💻 Creative Coding
-`██████████████████░░` **85%**
+### 💻
+**Creative Coding**
 
 Code + Art + Interaction
 
+`JS` `Python`
+
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🎬 Motion & Visuals
-`███████████████░░░░░` **75%**
+### 🌐
+**Full-Stack**
 
-Video · Motion Graphics · Visual Storytelling
+Building scalable web apps
+
+`React` `Next.js` `Node`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎮
+**Game Development**
+
+Interactive worlds & systems
+
+`Unity` `Unreal`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🌐 Full-Stack Development
-`████████████████░░░░` **80%**
+### 🎬
+**Motion & Video**
 
-Web · APIs · Databases · Applications
+Visual storytelling & editing
+
+`Motion` `Video`
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🧊 3D / Blender
-`█████████████░░░░░░░` **65%**
+### 🧊
+**3D & Blender**
 
 Modeling · Animation · Rendering
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎮 Game Development
-`██████████████░░░░░░` **70%**
-
-Unity · Unreal · C# · C++
+`Blender` `3D`
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🎨 UI / UX
-`██████████████░░░░░░` **70%**
+### 🎨
+**UI / UX**
 
-Design · Prototyping · Experiences
+Designing digital experiences
+
+`Figma` `Framer`
 
 </td>
 </tr>
 </table>
+
 ```
 
 ---
