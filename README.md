@@ -35,7 +35,6 @@
 
 <p align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=vishalkatarha&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=vishalkatarha&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
