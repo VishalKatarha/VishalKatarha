@@ -33,10 +33,6 @@
   </a>
 </p>
 
-<p align="center">
-  <br>
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=vishalkatarha&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
 </div>
