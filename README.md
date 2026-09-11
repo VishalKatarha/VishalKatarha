@@ -368,8 +368,6 @@ Designing digital experiences
 </tr>
 </table>
 
-```
-
 ---
 
 # 🌐 Find Me Around The Internet
