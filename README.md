@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/vishal-katarha-4b8422298">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/c/burnitupp">
+  <a href="https://www.youtube.com/@BurnitUpp">
     <img src="https://img.shields.io/badge/YouTube-BurnItUpp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
